@@ -49,7 +49,7 @@ const perguntas = [
  afirmacao: "afirmação"
  }
  ],
-    imagem: "./img/Debate_IA_Cartoon.png" 
+    imagem: "./img/3.png" 
  },
  {
  enunciado:
@@ -64,7 +64,7 @@ const perguntas = [
   afirmacao:"afirmação"
  }
  ],
-    imagem: "./img/3.png" 
+    imagem: "./img/4.png" 
  },
  {
  enunciado:
@@ -79,7 +79,7 @@ const perguntas = [
   afirmacao:"afirmação"
  }
  ],
-    imagem: "./img/4.png" 
+    imagem: "./img/5.png" 
  },
 ];
 

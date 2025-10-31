@@ -43,8 +43,10 @@ button:hover{
 }
 
 .imagem-pergunta {
-width: 200%; 
+width: 25%; 
 max-width: 800px; 
 margin-top: 20px; 
 border-radius: 30px; 
+justify-content: center;
+align-items: center;
  }
