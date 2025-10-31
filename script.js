@@ -79,7 +79,7 @@ const perguntas = [
   afirmacao:"afirmação"
  }
  ],
-    imagem: "./img/5.png" 
+    imagem: "./img/6.png" 
  },
 ];
 
@@ -125,7 +125,7 @@ function mostraResultado(){
  caixaPerguntas.textContent = "Em 2049...";
  textoResultado.textContent = historiaFinal;
  caixaAlternativas.textContent = "";
-caixaImagem.innerHTML = `<img src="./img/Futuro_2049_IA_Cartoon.png" alt="O Futuro da IA em 2049" class="imagem-pergunta">`;
+caixaImagem.innerHTML = `<img src="./img/5.png" alt="O Futuro da IA em 2049" class="imagem-pergunta">`;
 }
 
 mostraPergunta();
